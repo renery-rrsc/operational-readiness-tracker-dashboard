@@ -1,5 +1,5 @@
 ## 📊 Operational Readiness & Project Tracker Dashboard
-An interactive, data-driven dashboard built with Python and Streamlit designed to help Project Managers track deliverable adherence, resource planning, and timeline progress. This tool transforms static Excel data into dynamic S-Curves, KPI cards, and delay analysis tables.
+An interactive, data-driven dashboard built with Python and Streamlit designed to help internal Project Managers from my company to track deliverable adherence, resource planning, and timeline progress. This tool transforms static Excel data into dynamic S-Curves, KPI cards, and delay analysis tables.
 
 ## 🚀 Key Features
 1. Dynamic S-Curve Visualization: Compares cumulative planned tasks against actual progress with adjustable granularity (Weekly, Monthly, Yearly). It also overlays key project milestones directly on the timeline.
